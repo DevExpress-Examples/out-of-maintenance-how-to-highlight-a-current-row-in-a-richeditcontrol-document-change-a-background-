@@ -1,8 +1,0 @@
-<Window x:Class="WpfApplication1.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="479" Width="823" xmlns:dxre="http://schemas.devexpress.com/winfx/2008/xaml/richedit">
-    <Grid>
-        <dxre:RichEditControl Name="richEditControl1" SelectionChanged="richEditControl1_SelectionChanged" />
-    </Grid>
-</Window>
